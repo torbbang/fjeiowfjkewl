@@ -1,7 +1,5 @@
 # QuantumLink - Reimagining Digital Collaboration
 
-![QuantumLink Banner](https://github.com/torbbang/fjeiowfjkewl/raw/main/assets/banner.png)
-
 ## 🌟 Overview
 
 **QuantumLink** is a revolutionary collaboration platform that harnesses the power of quantum-inspired algorithms to transform how teams work together across space and time. By creating a dynamic, self-organizing workspace that adapts to your team's unique patterns and needs, QuantumLink eliminates the friction points that plague traditional collaboration tools.
